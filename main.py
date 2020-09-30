@@ -1,3 +1,4 @@
+#this program helps in automating the dino game
 import pyautogui
 import  time
 from PIL import Image,ImageGrab
@@ -29,15 +30,4 @@ if __name__ == "__main__":
         pixel(data)
             # hit("up")
 
-        # print(asarray(image))
-        # rectangle for cactus
-        # for i in range(500, 520):
-        #     for j in range(380, 465):
-        #         data[i, j] = 0
-        # #rectangle for birds
-        # for i in range(420, 520):
-        #     for j in range(250, 375):
-        #         data[i, j] = 71
-        #
-        # image.show()
-        # break
+        
